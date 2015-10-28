@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>js-marker-clusterer</artifactId>
-    <version>601215f</version>
+    <version>0-SNAPSHOT</version>
     <name>Marker Clusterer</name>
     <description>WebJar for Marker Clusterer</description>
     <url>http://webjars.org</url>
@@ -51,7 +51,7 @@
         <url>http://github.com/webjars/js-marker-clusterer</url>
         <connection>scm:git:https://github.com/webjars/js-marker-clusterer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/js-marker-clusterer.git</developerConnection>
-        <tag>js-marker-clusterer-601215f</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
